@@ -1,0 +1,16 @@
+apnea index
+hypopnea index
+apnea hypopnea index
+apnea-hypopnea index
+ahi
+oxygen desaturation index
+odi
+respiratory disturbance index
+rdi
+lowest oxygen saturation
+o2 saturation
+central sleep apnea
+csa
+central apnea
+respiratory effort index
+rei 

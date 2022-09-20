@@ -1,0 +1,4 @@
+RULENAME="cm_repatientreported",REGEXP="\b(?:%repatientreported)\b",LOCATION="NA",NORM="patientreported"
+RULENAME="cm_resleepstudyindicators",REGEXP="\b(?:%resleepstudyindicators)\b",LOCATION="NA",NORM="sleepstudyindicators"
+RULENAME="cm_resleepstudyresults",REGEXP="\b(?:%resleepstudyresults)\b",LOCATION="NA",NORM="sleepstudyresults"
+RULENAME="cm_retherapyindicators",REGEXP="\b(?:%retherapyindicators)\b",LOCATION="NA",NORM="therapyindicators"
